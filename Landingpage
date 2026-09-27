@@ -1,0 +1,419 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#050914">
+
+  <title>PRIYA SURE SHOT VIP | Official Telegram Channel</title>
+
+  <meta name="description" content="Join PRIYA SURE SHOT VIP on Telegram for gaming tips, updates, and community content.">
+
+  <!-- Meta Pixel Code -->
+  <script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;
+    n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];
+    t=b.createElement(e);t.async=!0;
+    t.src=v;
+    s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}
+    (window, document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+
+    fbq('init', '1372911904498142');
+    fbq('track', 'PageView');
+  </script>
+  <noscript>
+    <img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=1372911904498142&ev=PageView&noscript=1"
+    alt="">
+  </noscript>
+  <!-- End Meta Pixel Code -->
+
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      min-height: 100vh;
+      font-family: Arial, Helvetica, sans-serif;
+      color: #ffffff;
+      background:
+        radial-gradient(circle at 50% 15%, #102b56 0%, transparent 40%),
+        linear-gradient(160deg, #030711, #071326 55%, #02050c);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 24px 16px 100px;
+      overflow-x: hidden;
+    }
+
+    .background-glow {
+      position: fixed;
+      width: 280px;
+      height: 280px;
+      border-radius: 50%;
+      background: #00d9ff;
+      filter: blur(130px);
+      opacity: 0.16;
+      top: 10%;
+      left: 50%;
+      transform: translateX(-50%);
+      pointer-events: none;
+    }
+
+    .page {
+      width: 100%;
+      max-width: 430px;
+      position: relative;
+      z-index: 1;
+    }
+
+    .card {
+      position: relative;
+      padding: 32px 22px 28px;
+      border: 1px solid rgba(0, 225, 255, 0.32);
+      border-radius: 28px;
+      background: linear-gradient(
+        145deg,
+        rgba(16, 35, 65, 0.92),
+        rgba(4, 11, 25, 0.97)
+      );
+      box-shadow:
+        0 0 35px rgba(0, 195, 255, 0.12),
+        inset 0 0 25px rgba(0, 195, 255, 0.035);
+      text-align: center;
+      overflow: hidden;
+    }
+
+    .card::before {
+      content: "";
+      position: absolute;
+      width: 220px;
+      height: 220px;
+      top: -130px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: #00c8ff;
+      filter: blur(100px);
+      opacity: 0.25;
+      pointer-events: none;
+    }
+
+    .logo {
+      position: relative;
+      width: 145px;
+      height: 145px;
+      margin: 0 auto 24px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      background: linear-gradient(145deg, #132b4c, #030915);
+      border: 2px solid #00d9ff;
+      box-shadow:
+        0 0 18px rgba(0, 217, 255, 0.45),
+        inset 0 0 20px rgba(0, 217, 255, 0.15);
+      animation: glow 3s ease-in-out infinite;
+    }
+
+    .logo-icon {
+      font-size: 42px;
+      line-height: 1.2;
+      margin-bottom: 8px;
+      filter: drop-shadow(0 0 10px #00d9ff);
+    }
+
+    .logo-name {
+      font-size: 13px;
+      font-weight: 900;
+      letter-spacing: 1px;
+      color: #ffffff;
+      text-shadow: 0 0 10px #00d9ff;
+    }
+
+    .logo-sub {
+      margin-top: 5px;
+      font-size: 9px;
+      color: #00d9ff;
+      letter-spacing: 3px;
+      font-weight: bold;
+    }
+
+    @keyframes glow {
+      0%, 100% {
+        box-shadow:
+          0 0 18px rgba(0, 217, 255, 0.35),
+          inset 0 0 20px rgba(0, 217, 255, 0.12);
+      }
+      50% {
+        box-shadow:
+          0 0 30px rgba(0, 217, 255, 0.65),
+          inset 0 0 25px rgba(0, 217, 255, 0.2);
+      }
+    }
+
+    .tag {
+      display: inline-block;
+      padding: 8px 15px;
+      border: 1px solid rgba(0, 217, 255, 0.35);
+      border-radius: 30px;
+      background: rgba(0, 217, 255, 0.07);
+      color: #00e1ff;
+      font-size: 11px;
+      font-weight: bold;
+      letter-spacing: 2px;
+      margin-bottom: 18px;
+    }
+
+    h1 {
+      font-size: clamp(25px, 7vw, 34px);
+      line-height: 1.2;
+      font-weight: 900;
+      letter-spacing: 0.5px;
+      margin-bottom: 15px;
+      text-shadow: 0 0 18px rgba(0, 217, 255, 0.2);
+    }
+
+    h1 span {
+      display: block;
+      color: #00d9ff;
+      margin-top: 6px;
+    }
+
+    .description {
+      font-size: 14px;
+      line-height: 1.8;
+      color: #b8c9df;
+      margin: 0 auto 24px;
+      max-width: 330px;
+    }
+
+    .features {
+      display: grid;
+      gap: 12px;
+      margin: 25px 0;
+      text-align: left;
+    }
+
+    .feature {
+      display: flex;
+      align-items: center;
+      gap: 13px;
+      padding: 14px;
+      border-radius: 14px;
+      border: 1px solid rgba(0, 217, 255, 0.15);
+      background: rgba(0, 217, 255, 0.045);
+      color: #e5f4ff;
+      font-size: 13px;
+      line-height: 1.5;
+    }
+
+    .feature-icon {
+      width: 38px;
+      height: 38px;
+      flex-shrink: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 11px;
+      background: rgba(0, 217, 255, 0.12);
+      font-size: 19px;
+    }
+
+    .join-btn {
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 12px;
+      padding: 17px 20px;
+      margin-top: 25px;
+      border-radius: 15px;
+      text-decoration: none;
+      color: #00101b;
+      font-size: 17px;
+      font-weight: 900;
+      letter-spacing: 0.5px;
+      background: linear-gradient(135deg, #00eaff, #00aaff);
+      box-shadow: 0 0 25px rgba(0, 200, 255, 0.35);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .join-btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 0 35px rgba(0, 200, 255, 0.55);
+    }
+
+    .telegram-icon {
+      font-size: 23px;
+    }
+
+    .note {
+      margin-top: 17px;
+      color: #8296b2;
+      font-size: 11px;
+      line-height: 1.6;
+    }
+
+    .footer {
+      text-align: center;
+      margin-top: 22px;
+      font-size: 11px;
+      color: #6e829e;
+      line-height: 1.7;
+    }
+
+    .bottom-bar {
+      position: fixed;
+      z-index: 10;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      padding: 12px 16px calc(12px + env(safe-area-inset-bottom));
+      background: rgba(3, 8, 18, 0.94);
+      border-top: 1px solid rgba(0, 217, 255, 0.2);
+      backdrop-filter: blur(15px);
+    }
+
+    .bottom-btn {
+      display: block;
+      width: 100%;
+      max-width: 430px;
+      margin: auto;
+      text-align: center;
+      text-decoration: none;
+      color: #00101b;
+      font-weight: 900;
+      font-size: 15px;
+      padding: 15px;
+      border-radius: 12px;
+      background: linear-gradient(135deg, #00eaff, #00aaff);
+      box-shadow: 0 0 20px rgba(0, 200, 255, 0.22);
+    }
+
+    @media (max-width: 360px) {
+      .card {
+        padding: 26px 16px 24px;
+      }
+
+      .logo {
+        width: 125px;
+        height: 125px;
+      }
+
+      .feature {
+        padding: 12px;
+      }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .logo {
+        animation: none;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="background-glow"></div>
+
+  <main class="page">
+    <section class="card">
+
+      <!-- Text-based logo -->
+      <div class="logo">
+        <div class="logo-icon">🎮</div>
+        <div class="logo-name">PRIYA SURE SHOT</div>
+        <div class="logo-sub">VIP</div>
+      </div>
+
+      <div class="tag">OFFICIAL TELEGRAM CHANNEL</div>
+
+      <h1>
+        WELCOME TO
+        <span>PRIYA SURE SHOT VIP</span>
+      </h1>
+
+      <p class="description">
+        Gaming community ka hissa banein aur channel par milne wale
+        gaming tips, updates aur community content se jude rahein.
+      </p>
+
+      <div class="features">
+
+        <div class="feature">
+          <div class="feature-icon">🎯</div>
+          <div>
+            <strong>Gaming Tips</strong><br>
+            Gaming se judi tips aur useful information.
+          </div>
+        </div>
+
+        <div class="feature">
+          <div class="feature-icon">📢</div>
+          <div>
+            <strong>Latest Updates</strong><br>
+            Channel ke naye updates aur announcements.
+          </div>
+        </div>
+
+        <div class="feature">
+          <div class="feature-icon">👥</div>
+          <div>
+            <strong>VIP Community</strong><br>
+            Hamari Telegram community se judein.
+          </div>
+        </div>
+
+      </div>
+
+      <a
+        class="join-btn"
+        href="https://t.me/+7Jy0BQmIirUxODZl"
+        target="_blank"
+        rel="noopener noreferrer"
+        onclick="if(typeof fbq==='function'){fbq('track','Lead');}"
+      >
+        <span class="telegram-icon">➤</span>
+        JOIN TELEGRAM CHANNEL
+      </a>
+
+      <p class="note">
+        Channel join karne ke liye upar diye gaye button par click karein.
+        Gaming mein risk ho sakta hai. Koi bhi result guaranteed nahi hai.
+      </p>
+
+    </section>
+
+    <div class="footer">
+      © 2026 PRIYA SURE SHOT VIP<br>
+      Official Telegram Community
+    </div>
+  </main>
+
+  <!-- Fixed bottom Telegram button -->
+  <div class="bottom-bar">
+    <a
+      class="bottom-btn"
+      href="https://t.me/+7Jy0BQmIirUxODZl"
+      target="_blank"
+      rel="noopener noreferrer"
+      onclick="if(typeof fbq==='function'){fbq('track','Lead');}"
+    >
+      ➤ JOIN VIP TELEGRAM
+    </a>
+  </div>
+
+</body>
+</html>
